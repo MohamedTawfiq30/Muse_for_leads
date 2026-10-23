@@ -1,0 +1,120 @@
+# Prompt: Transform My Excel Leads into a Clean, Visual Sales Dashboard
+
+Act as an expert Excel dashboard designer, sales operations analyst, and data visualization specialist.
+
+I will upload an Excel file containing business leads collected for prospecting. Your task is to transform it into a **professional, visually appealing, easy-to-use lead management workbook** that helps my team quickly identify and prioritize potential clients.
+
+## 1. First, Analyze My Excel File
+
+- Inspect the actual uploaded workbook, including its sheets, columns, data types, lead scores, and existing structure.
+- Identify which columns are essential for daily lead targeting.
+- Preserve the original meaning and accuracy of the data.
+- Do not invent missing business names, owner names, website links, scores, or vulnerabilities.
+- Treat empty values, "Not Found", and unverified information appropriately.
+
+## 2. Create a Clean, Visual Dashboard
+
+Design a polished Excel dashboard inspired by modern executive dashboards and professional sales CRM interfaces.
+
+Use:
+- A clean, premium visual hierarchy.
+- A dark navy or charcoal header with tasteful accent colors.
+- Clear KPI cards with large, readable numbers.
+- Charts that genuinely help users understand the leads.
+- Consistent typography, spacing, alignment, borders, and column widths.
+- Minimal clutter and no unnecessary decoration.
+
+The dashboard should show relevant metrics based on the actual data, such as:
+- Total leads.
+- High-priority leads.
+- Moderate-priority leads.
+- Low-priority leads.
+- Website availability.
+- Social profile availability, if the data supports it.
+
+Only include metrics that can be calculated reliably from the uploaded file.
+
+## 3. Separate Leads by Score
+
+If the workbook contains lead scores, create three separate, filterable worksheets:
+
+- **High Leads:** Red.
+- **Moderate Leads:** Blue.
+- **Low Leads:** Green.
+
+Use the existing scoring system whenever possible. If score thresholds are not defined, inspect the score distribution and propose reasonable thresholds, clearly documenting them rather than silently changing the scoring logic.
+
+Each category must contain only the leads belonging to that category. Keep the same column order across all three sheets.
+
+## 4. Simplify the Lead Tables
+
+For a business website-development or digital-services prospecting workflow, use these columns when the source data supports them:
+
+1. Business Name
+2. Place
+3. Website (Yes/No)
+4. Instagram (availability or clickable link)
+5. LinkedIn (availability or clickable link)
+6. Vulnerability / Business Opportunity
+7. Website URL
+8. Score with color coding
+9. Owner Name, if available
+
+Adapt the columns to the actual purpose and content of my uploaded workbook. Do not force irrelevant columns into the design.
+
+Make website and social links clickable. Keep vulnerability descriptions concise and actionable.
+
+## 5. Apply Visual Score Formatting
+
+Use consistent, readable colors:
+
+- **Red = High priority**
+- **Blue = Moderate priority**
+- **Green = Low priority**
+
+Color the score cells clearly. Use matching accents in the corresponding worksheets and dashboard. Do not rely on color alone: display the numeric score and, where useful, its priority label.
+
+## 6. Make It Practical to Use
+
+- Add filters to every lead table.
+- Freeze the header row.
+- Use readable column widths and row heights.
+- Apply alternating row shading where appropriate.
+- Ensure long URLs and descriptions do not make the sheet difficult to scan.
+- Add hyperlinks or navigation shortcuts between the dashboard and score-specific sheets where supported.
+- Make the workbook usable in Microsoft Excel and, where possible, Google Sheets.
+
+## 7. Design Reference
+
+If I upload a sample Excel workbook or screenshot, use it **only as visual inspiration**.
+
+Study its:
+- Layout and hierarchy.
+- KPI card design.
+- Color palette.
+- Chart placement.
+- Table styling.
+- Spacing and readability.
+
+Do not copy it exactly. Create an original design that fits my own data, company, and workflow.
+
+## 8. Final Deliverable
+
+Generate a real, downloadable `.xlsx` workbook, not just a screenshot or instructions.
+
+Unless I request otherwise, include only:
+1. Dashboard
+2. High Leads
+3. Moderate Leads
+4. Low Leads
+
+Do not include redundant master lists or full-data archive sheets unless they are specifically needed or requested.
+
+Before finishing:
+- Verify that all original lead records are accounted for across the score categories.
+- Check that the score classifications are consistent.
+- Verify formulas, filters, hyperlinks, and worksheet names.
+- Ensure the dashboard figures match the actual data.
+- Summarize the changes and provide a direct download link to the completed workbook.
+
+**My goal:** A clean, premium, highly visual Excel lead management system that lets my team understand the data at a glance and immediately know which businesses to target first.

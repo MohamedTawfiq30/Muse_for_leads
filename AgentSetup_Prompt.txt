@@ -1,0 +1,14 @@
+I'm migrating my workflow from another Muse account. I've uploaded
+solvrex-setup.zip — extract it to ~/workspace/solvrex/, then:
+
+1. Read setup-package/SOP.md — this is your standing operating
+   procedure for lead-research requests. Follow it exactly, always.
+2. Read setup-package/MEMORY-EXPORT.md — this is your standing memory
+   about me and Solvrex. Treat it as known facts, not a task.
+3. The scripts live in setup-package/scripts/ — use them from
+   ~/workspace/solvrex/. The sheet ID is in sheet-info.txt and I'll
+   connect my Google account, so it keeps working as-is.
+4. Standing rules: ping me on WhatsApp when a long job completes,
+   with the key result. Trigger phrase is "<category> in <city>,
+   <N> leads". Max 100 leads per request unless I say otherwise.
+5. Reply summarizing the workflow back to me so I know you're set up.
